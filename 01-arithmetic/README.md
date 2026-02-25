@@ -2,8 +2,8 @@
 
 ## Sections
 
-1-1. Integers and Basic Concepts<br>
-1-2. Fractions and Decimals<br>
-1-3. Ratio and Proportion<br>
+1-1. Integers<br>
+1-2. Fractions / Decimals<br>
+1-3. Ratio / Proportion<br>
 1-4. Percent<br>
-1-5. Exponents and Square Roots
+1-5. Exponents / Square Roots
